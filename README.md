@@ -1,1 +1,1 @@
-# Alkalmaz-sFejleszt-s_NagyProjekt
+# AlkalmazasFejlesztes_NagyProjekt
